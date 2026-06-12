@@ -1,93 +1,149 @@
-Trader Performance Analysis Dashboard
-Project Overview
+# 📊 Trader Performance Analysis Dashboard
+
+## Overview
 
 This project presents an interactive Power BI dashboard designed to evaluate trader performance using historical trading records. The dashboard tracks key performance indicators (KPIs), profitability trends, risk-reward metrics, and trading outcomes to provide actionable insights for performance evaluation and decision-making.
 
-Business Problem
+---
 
-Traders generate large volumes of transactional data that can be difficult to analyze manually.
+## 🎯 Business Problem
 
-The objective of this project is to transform raw trading data into meaningful business insights by monitoring performance indicators such as profitability, trade outcomes, win rates, loss rates, and risk-reward ratios.
+Traders generate large volumes of transactional data that can be difficult to analyze manually. Without a centralized reporting solution, identifying profitable patterns, risk exposure, and performance trends becomes challenging.
 
-Objectives
-Analyze overall trader performance.
-Measure profitability and trading outcomes.
-Monitor win and loss distribution.
-Evaluate risk-reward effectiveness.
-Analyze long and short trading behavior.
-Track performance trends over time.
-Tools & Technologies
-Power BI
-Power Query
-DAX
-Excel / CSV
-Data Visualization
-Data Analysis
-Dashboard KPIs
-KPI	Description
-Total Trades	Total number of executed trades
-Total Outcome	Overall trade outcome
-Total Profit	Cumulative profit generated
-Average RR Ratio	Average Risk-Reward Ratio
-Win Count	Total winning trades
-Loss Count	Total losing trades
-Dashboard Visualizations
-1. KPI Cards
+This dashboard transforms raw trading data into actionable business insights by monitoring profitability, trade outcomes, win rates, loss rates, and risk-reward effectiveness.
 
-Provides a high-level overview of trading performance.
+---
 
-Metrics include:
+## 🚀 Objectives
 
-Total Trades
-Total Profit
-Win Count
-Loss Count
-Risk-Reward Ratio
-2. Trade Outcome Distribution
+* Analyze overall trader performance
+* Measure profitability and trading outcomes
+* Monitor win and loss distribution
+* Evaluate risk-reward effectiveness
+* Analyze long and short trading behavior
+* Track performance trends over time
 
-Pie chart visualizing:
+---
 
-Take Profit (TP)
-Stop Loss (SL)
+## 🛠️ Tools & Technologies
 
-This helps identify the proportion of successful versus unsuccessful trades.
+* Power BI
+* Power Query
+* DAX
+* Microsoft Excel
+* Data Visualization
+* Data Analysis
 
-3. Long vs Short Analysis
+---
+
+## 📈 Dashboard KPIs
+
+| KPI              | Description                     |
+| ---------------- | ------------------------------- |
+| Total Trades     | Total number of executed trades |
+| Total Outcome    | Overall trading outcome         |
+| Total Profit     | Cumulative profit generated     |
+| Average RR Ratio | Average Risk-Reward Ratio       |
+| Win Count        | Total winning trades            |
+| Loss Count       | Total losing trades             |
+
+---
+
+## 📊 Dashboard Visualizations
+
+### KPI Summary Cards
+
+Provides a high-level overview of trading performance through:
+
+* Total Trades
+* Total Profit
+* Win Count
+* Loss Count
+* Average Risk-Reward Ratio
+
+### Trade Outcome Distribution
+
+Pie chart showing:
+
+* Take Profit (TP)
+* Stop Loss (SL)
+
+Used to evaluate trading success rates and execution effectiveness.
+
+### Long vs Short Analysis
 
 Donut chart displaying:
 
-Long Trades
-Short Trades
+* Long Trades
+* Short Trades
 
-Used to understand trader positioning and strategy preference.
+Provides insights into trading strategy preferences.
 
-4. Performance Trend Analysis
+### Performance Trend Analysis
 
 Column chart showing:
 
-Outcome by Date
+* Outcome by Date
 
-Helps identify profitable and unprofitable trading periods.
+Used to identify profitable and unprofitable trading periods.
 
-Key Insights
-Trading performance can be evaluated through profit, win rate, and risk-reward metrics.
-Outcome trends reveal periods of strong and weak performance.
-Long and short trade distributions provide insights into trading behavior.
-Stop-loss and take-profit analysis highlights trade execution effectiveness.
-Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-KPI Development
-DAX Measures
-Power BI Dashboard Design
-Business Intelligence
-Data Visualization
-Performance Analytics
-Future Improvements
-Add Drawdown Analysis
-Add Profit Factor KPI
-Add Monthly Performance Trends
-Add Trading Session Analysis
-Add Risk Exposure Metrics
-Add Interactive Drill-Through Reports
+---
+
+## 🔍 Key Insights
+
+* Trading performance can be measured effectively through profitability, win rate, and risk-reward metrics.
+* Outcome trends reveal periods of strong and weak trading performance.
+* Long and short trade distributions provide insights into trader behavior.
+* Stop-loss and take-profit analysis highlights trade execution effectiveness.
+
+---
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* KPI Development
+* DAX Measures
+* Power BI Dashboard Design
+* Business Intelligence
+* Data Visualization
+* Performance Analytics
+
+---
+
+## 🔮 Future Improvements
+
+* Drawdown Analysis
+* Profit Factor KPI
+* Monthly Performance Trends
+* Trading Session Analysis
+* Risk Exposure Metrics
+* Interactive Drill-Through Reports
+
+---
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard Overview](Images/dashboard_overview.png)
+
+### KPI Analysis
+
+![KPI Analysis](Images/kpi_analysis.png)
+
+### Trade Distribution
+
+![Trade Distribution](Images/trade_distribution.png)
+
+---
+
+## 📬 Contact
+
+**Prathamesh Jadhav**
+
+* LinkedIn: https://linkedin.com/in/prathamesh-jadhav-b909312a0
+* GitHub: https://github.com/Pratham5321
+
+---
